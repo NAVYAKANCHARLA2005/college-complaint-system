@@ -1,0 +1,24 @@
+{
+  "name": "college-complaint-system",
+  "version": "1.0.0",
+  "description": "Complaint and notice management system for College - DevOps Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAVYAKANCHARLA2005/college-complaint-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NAVYAKANCHARLA2005/college-complaint-system/issues"
+  },
+  "homepage": "https://github.com/NAVYAKANCHARLA2005/college-complaint-system#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
